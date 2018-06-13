@@ -1,0 +1,817 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="chandni.chhabra2013@gmail.com" resolutions="1x,2x" timestamp="1499837542511">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_b-master.css" crc="4245577905" ref="index"/>
+    <file name="master_a-master.css" crc="68869235" ref="week-7:week-12:week-8:week-11:week-15:final-project:week-6:week-16:week-10:week-9:week-17:week-3:week-1:week-4:week-13:week-18:week-5:week-2:week-14:project-development"/>
+    <file name="week-7.css" crc="4077725668" ref="week-7"/>
+    <file name="index.css" crc="3901413876" ref="index"/>
+    <file name="iefonts_index.css" crc="223047176" ref="index"/>
+    <file name="week-12.css" crc="47349270" ref="week-12"/>
+    <file name="week-8.css" crc="395256109" ref="week-8"/>
+    <file name="week-11.css" crc="3920381409" ref="week-11"/>
+    <file name="week-15.css" crc="4012603308" ref="week-15"/>
+    <file name="final-project.css" crc="205052130" ref="final-project"/>
+    <file name="week-6.css" crc="502062318" ref="week-6"/>
+    <file name="weekly-assignments.css" crc="260722971" ref="weekly-assignments"/>
+    <file name="week-16.css" crc="4157014356" ref="week-16"/>
+    <file name="week-10.css" crc="4087481345" ref="week-10"/>
+    <file name="iefonts_week-10.css" crc="4208645996" ref="week-10"/>
+    <file name="week-9.css" crc="248626550" ref="week-9"/>
+    <file name="week-17.css" crc="3876420540" ref="week-17"/>
+    <file name="week-3.css" crc="405837980" ref="week-3"/>
+    <file name="iefonts_week-3.css" crc="3949326482" ref="week-3"/>
+    <file name="week-1.css" crc="140693593" ref="week-1"/>
+    <file name="week-4.css" crc="4212941760" ref="week-4"/>
+    <file name="week-13.css" crc="267718039" ref="week-13"/>
+    <file name="week-18.css" crc="3798288475" ref="week-18"/>
+    <file name="iefonts_week-18.css" crc="4240042936" ref="week-18"/>
+    <file name="week-5.css" crc="3786396960" ref="week-5"/>
+    <file name="week-2.css" crc="3980339332" ref="week-2"/>
+    <file name="week-14.css" crc="4188763619" ref="week-14"/>
+    <file name="project-development.css" crc="4064325729" ref="project-development"/>
+  </folder>
+  <folder name="assets">
+    <file name="fab.lbr" crc="3838579712" seo="true" mt="1488716904000"/>
+    <file name="fab.dru" crc="3902883309" seo="true" mt="1488716865000"/>
+    <file name="final-fablab-cept-isp.jpg" crc="327352187" seo="true" mt="1498654344000"/>
+    <file name="final-fablab-cept-isp_interior.jpg" crc="437691140" seo="true" mt="1498654344000"/>
+    <file name="chandni-chhabra_week-14_fabacademy-2017.3dm" crc="3867307787" seo="true" mt="1494827838000"/>
+    <file name="light-printer_-__3d-file.3dm" crc="3976674339" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_asynchronous-files.zip" crc="4028436796" seo="true" mt="1199215424000"/>
+    <file name="chandni-chhabra_asynchronous.zip" crc="99190944" seo="true" mt="1199215399000"/>
+    <file name="chandni-chhabra_bill-of-materials.xlsx" crc="334384473" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_distance-sensor.zip" crc="350311534" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_final-project-files.zip" crc="265208159" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_graphic-for-vinyl-cutting_fabacademy-2017.zip" crc="3870706216" seo="true" mt="1199215393000"/>
+    <file name="chandni-chhabra_laptop-stand_week-3_fabacademy-2017.rar" crc="312157264" seo="true" mt="1199215393000"/>
+    <file name="chandni-chhabra_slider-in-processing.zip" crc="3948136135" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_stepper.zip" crc="529986946" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_week-10_revised-eagle-files.zip" crc="3862400063" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_week-12-files.zip" crc="4217636855" seo="true" mt="1199215393000"/>
+    <file name="chandni-chhabra_week-5-3d-print.zip" crc="4029161889" seo="true" mt="1199215400000"/>
+    <file name="chandni-chhabra_week-7.dxf" crc="3852238305" seo="true" mt="1199215394000"/>
+    <file name="chandni-chhabra_week-7_laptop-table.3dm" crc="238807315" seo="true" mt="1199215394000"/>
+    <file name="chandni-chhabra_week10_02-.brd" crc="159062863" seo="true" mt="1199215393000"/>
+    <file name="chandni-chhabra_week10_02-.sch" crc="3923975395" seo="true" mt="1199215393000"/>
+    <file name="chandni-chhabra_week13.zip" crc="4073081825" seo="true" mt="1199215400000"/>
+    <file name="chandni_3d-scanned-object.stl" crc="147509654" seo="true" mt="1199215404000"/>
+    <file name="codes-by-neil.txt" crc="389511887" seo="true" mt="1199215400000"/>
+    <file name="echo-hello_cac.zip" crc="76041676" seo="true" mt="1199215394000"/>
+    <file name="week-6_chandni.zip" crc="454654695" seo="true" mt="1199215394000"/>
+    <file name="week-02-20170626t120556z-001.zip" crc="225893463" seo="true" mt="1199215394000"/>
+    <file name="week-01--20170625t164445z-0012.zip" crc="3903267196" seo="true" mt="1199215400000"/>
+    <file name="terrapin-eagle-files.zip" crc="3805392436" seo="true" mt="1199215400000"/>
+    <file name="light-printer_cnc.dxf" crc="163655344" seo="true" mt="1499754304000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="museutils.js" crc="163421577" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="whatinput.js" crc="86476730" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="museconfig.js" crc="168988563" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index:final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u31216.php" crc="4077672136" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="require.js" crc="244322403" ref="index:weekly-assignments:final-project:week-1:week-2:week-3:week-4:week-6:week-10:week-7:week-8:week-9:week-14:week-11:week-12:week-5:week-15:week-16:week-17:week-18:project-development:week-13"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+    <file name="touchswipe.js" crc="404375771" ref="final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+  </folder>
+  <folder name="images">
+    <file name="kuva 2.png" crc="4093657371" seo="true" ref="index"/>
+    <file name="sky08.jpg" crc="4121046316" seo="true" ref="index"/>
+    <file name="logo1.png" crc="3806311363" ref="index"/>
+    <file name="u29233-4.png" crc="3792710059" ref="index"/>
+    <file name="u29233-4_2x.png" crc="3995806357" ref="index"/>
+    <file name="u30087.png" crc="87880099" ref="index"/>
+    <file name="u30087_2x.png" crc="3996808340" ref="index"/>
+    <file name="u30087-r.png" crc="382603770" ref="index"/>
+    <file name="u30087-r_2x.png" crc="335207955" ref="index"/>
+    <file name="u30087-m.png" crc="87880099" ref="index"/>
+    <file name="u30087-m_2x.png" crc="3996808340" ref="index"/>
+    <file name="u30087-a.png" crc="4269257220" ref="index"/>
+    <file name="u30087-a_2x.png" crc="481983263" ref="index"/>
+    <file name="u30057.png" crc="422895492" ref="index"/>
+    <file name="u30057_2x.png" crc="3805592688" ref="index"/>
+    <file name="u30057-r.png" crc="3923726419" ref="index"/>
+    <file name="u30057-r_2x.png" crc="3821803774" ref="index"/>
+    <file name="u30057-m.png" crc="422895492" ref="index"/>
+    <file name="u30057-m_2x.png" crc="3805592688" ref="index"/>
+    <file name="u30057-a.png" crc="84315050" ref="index"/>
+    <file name="u30057-a_2x.png" crc="4271396735" ref="index"/>
+    <file name="u30063.png" crc="3997456723" ref="index"/>
+    <file name="u30063_2x.png" crc="4047126474" ref="index"/>
+    <file name="u30063-r.png" crc="106799855" ref="index"/>
+    <file name="u30063-r_2x.png" crc="3773899517" ref="index"/>
+    <file name="u30063-m.png" crc="3997456723" ref="index"/>
+    <file name="u30063-m_2x.png" crc="4047126474" ref="index"/>
+    <file name="u30063-a.png" crc="463709797" ref="index"/>
+    <file name="u30063-a_2x.png" crc="319256466" ref="index"/>
+    <file name="u30069.png" crc="320604998" ref="index"/>
+    <file name="u30069_2x.png" crc="404331358" ref="index"/>
+    <file name="u30069-r.png" crc="83339545" ref="index"/>
+    <file name="u30069-r_2x.png" crc="251107673" ref="index"/>
+    <file name="u30069-m.png" crc="320604998" ref="index"/>
+    <file name="u30069-m_2x.png" crc="404331358" ref="index"/>
+    <file name="u30069-a.png" crc="4231334564" ref="index"/>
+    <file name="u30069-a_2x.png" crc="452248191" ref="index"/>
+    <file name="20141215_115100-crop-u29820.jpg" crc="139478263" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+    <file name="input 1-crop-u30075.jpg" crc="3969073150" seo="true" ref="index"/>
+    <file name="u30081.png" crc="3902230512" ref="index"/>
+    <file name="u30081_2x.png" crc="344516480" ref="index"/>
+    <file name="u30081-r.png" crc="285274211" ref="index"/>
+    <file name="u30081-r_2x.png" crc="4272677373" ref="index"/>
+    <file name="u30081-m.png" crc="3902230512" ref="index"/>
+    <file name="u30081-m_2x.png" crc="344516480" ref="index"/>
+    <file name="u30081-a.png" crc="359576927" ref="index"/>
+    <file name="u30081-a_2x.png" crc="4002258686" ref="index"/>
+    <file name="u29327-9.png" crc="4096101100" ref="index"/>
+    <file name="u29327-9_2x.png" crc="3822157407" ref="index"/>
+    <file name="u29339-4.png" crc="4005929228" ref="index"/>
+    <file name="u29339-4_2x.png" crc="4162244694" ref="index"/>
+    <file name="u30053.png" crc="3877023043" ref="index"/>
+    <file name="u30053_2x.png" crc="3976930487" ref="index"/>
+    <file name="u30053-r.png" crc="3841991286" ref="index"/>
+    <file name="u30053-r_2x.png" crc="476689295" ref="index"/>
+    <file name="u30053-m.png" crc="3877023043" ref="index"/>
+    <file name="u30053-m_2x.png" crc="3976930487" ref="index"/>
+    <file name="u30053-a.png" crc="3817170801" ref="index"/>
+    <file name="u30053-a_2x.png" crc="295729758" ref="index"/>
+    <file name="u30059.png" crc="260397041" ref="index"/>
+    <file name="u30059_2x.png" crc="3879994018" ref="index"/>
+    <file name="u30059-r.png" crc="3868659414" ref="index"/>
+    <file name="u30059-r_2x.png" crc="3922525562" ref="index"/>
+    <file name="u30059-m.png" crc="260397041" ref="index"/>
+    <file name="u30059-m_2x.png" crc="3879994018" ref="index"/>
+    <file name="u30059-a.png" crc="3966683279" ref="index"/>
+    <file name="u30059-a_2x.png" crc="432644893" ref="index"/>
+    <file name="u30065.png" crc="4157307562" ref="index"/>
+    <file name="u30065_2x.png" crc="492020582" ref="index"/>
+    <file name="u30065-r.png" crc="4132512169" ref="index"/>
+    <file name="u30065-r_2x.png" crc="3769083368" ref="index"/>
+    <file name="u30065-m.png" crc="4157307562" ref="index"/>
+    <file name="u30065-m_2x.png" crc="492020582" ref="index"/>
+    <file name="u30065-a.png" crc="3793187043" ref="index"/>
+    <file name="u30065-a_2x.png" crc="14982935" ref="index"/>
+    <file name="u30071.png" crc="4283647782" ref="index"/>
+    <file name="u30071_2x.png" crc="403183400" ref="index"/>
+    <file name="u30071-r.png" crc="4258386828" ref="index"/>
+    <file name="u30071-r_2x.png" crc="4182344604" ref="index"/>
+    <file name="u30071-m.png" crc="4283647782" ref="index"/>
+    <file name="u30071-m_2x.png" crc="403183400" ref="index"/>
+    <file name="u30071-a.png" crc="3980701481" ref="index"/>
+    <file name="u30071-a_2x.png" crc="222425443" ref="index"/>
+    <file name="img_6548-crop-u30077.jpg" crc="425612497" ref="index"/>
+    <file name="screenshot (568)-crop-u30083-crop-u30083.jpg" crc="4005989054" ref="index"/>
+    <file name="u30055.png" crc="4038752508" ref="index"/>
+    <file name="u30055_2x.png" crc="3885590677" ref="index"/>
+    <file name="u30055-r.png" crc="4291369372" ref="index"/>
+    <file name="u30055-r_2x.png" crc="3941618603" ref="index"/>
+    <file name="u30055-m.png" crc="4038752508" ref="index"/>
+    <file name="u30055-m_2x.png" crc="3885590677" ref="index"/>
+    <file name="u30055-a.png" crc="4015634453" ref="index"/>
+    <file name="u30055-a_2x.png" crc="4182310727" ref="index"/>
+    <file name="u30061.png" crc="3854669834" ref="index"/>
+    <file name="u30061_2x.png" crc="3774437912" ref="index"/>
+    <file name="u30061-r.png" crc="4256256019" ref="index"/>
+    <file name="u30061-r_2x.png" crc="195594928" ref="index"/>
+    <file name="u30061-m.png" crc="3854669834" ref="index"/>
+    <file name="u30061-m_2x.png" crc="3774437912" ref="index"/>
+    <file name="u30061-a.png" crc="3973241181" ref="index"/>
+    <file name="u30061-a_2x.png" crc="93465780" ref="index"/>
+    <file name="u30067.png" crc="4289985846" ref="index"/>
+    <file name="u30067_2x.png" crc="232668580" ref="index"/>
+    <file name="u30067-r.png" crc="222078785" ref="index"/>
+    <file name="u30067-r_2x.png" crc="4158527262" ref="index"/>
+    <file name="u30067-m.png" crc="4289985846" ref="index"/>
+    <file name="u30067-m_2x.png" crc="232668580" ref="index"/>
+    <file name="u30067-a.png" crc="248107116" ref="index"/>
+    <file name="u30067-a_2x.png" crc="4210746094" ref="index"/>
+    <file name="u30073.png" crc="263638826" ref="index"/>
+    <file name="u30073_2x.png" crc="4055698376" ref="index"/>
+    <file name="u30073-r.png" crc="409840002" ref="index"/>
+    <file name="u30073-r_2x.png" crc="242880485" ref="index"/>
+    <file name="u30073-m.png" crc="263638826" ref="index"/>
+    <file name="u30073-m_2x.png" crc="4055698376" ref="index"/>
+    <file name="u30073-a.png" crc="311326466" ref="index"/>
+    <file name="u30073-a_2x.png" crc="3894939611" ref="index"/>
+    <file name="img_20170625_160050-crop-u30079.jpg" crc="112431445" seo="true" ref="index"/>
+    <file name="screenshot (604)-crop-u30085.jpg" crc="3957141373" seo="true" ref="index"/>
+    <file name="fab-academy2.png" crc="172568808" ref="index"/>
+    <file name="cac final 1.jpg" crc="384400603" seo="true" ref="final-project"/>
+    <file name="cac final 2.jpg" crc="32592300" seo="true" ref="final-project"/>
+    <file name="presentation.jpg" crc="443386365" seo="true" ref="final-project"/>
+    <file name="screenshot (568).jpg" crc="372290889" seo="true" ref="final-project:week-17"/>
+    <file name="3-crop-u44379_2x.jpg" crc="4072340384" seo="true" ref="final-project"/>
+    <file name="3-crop-u44379_2x_2x.jpg" crc="3976680205" seo="true" ref="final-project"/>
+    <file name="2_2x.jpg" crc="130266503" seo="true" ref="final-project"/>
+    <file name="2_2x_2x.jpg" crc="3875593518" seo="true" ref="final-project"/>
+    <file name="img_6915_00.jpg" crc="185979792" seo="true" ref="final-project"/>
+    <file name="img_6907_00.jpg" crc="351529683" seo="true" ref="final-project"/>
+    <file name="whatsapp image 2017-06-28 at 23201 pm.jpg" crc="216337872" seo="true" ref="final-project:project-development"/>
+    <file name="screenshot (157).jpg" crc="3832990149" seo="true" ref="final-project:project-development"/>
+    <file name="screenshot (158).jpg" crc="3793606189" seo="true" ref="final-project:project-development"/>
+    <file name="screenshot (159).jpg" crc="4249942334" seo="true" ref="final-project:project-development"/>
+    <file name="screenshot (160).jpg" crc="3975024370" seo="true" ref="final-project:project-development"/>
+    <file name="loading.gif" crc="3815509949" ref="final-project:week-2:week-3:week-4:week-6:week-10:week-7:week-9:week-14:week-11:week-12:week-5:week-15:project-development:week-13"/>
+    <file name="img_6593.jpg" crc="46392606" seo="true" ref="final-project:project-development"/>
+    <file name="screenshot (157)711x400.jpg" crc="248046481" seo="true" ref="final-project"/>
+    <file name="screenshot (158)711x400.jpg" crc="3892190147" seo="true" ref="final-project"/>
+    <file name="screenshot (159)711x400.jpg" crc="3862781770" seo="true" ref="final-project"/>
+    <file name="screenshot (160)711x400.jpg" crc="260071018" seo="true" ref="final-project"/>
+    <file name="img_6610.jpg" crc="3844470449" seo="true" ref="final-project:project-development"/>
+    <file name="img_6611.jpg" crc="117093334" seo="true" ref="final-project:project-development"/>
+    <file name="img_6612.jpg" crc="507988779" seo="true" ref="final-project:project-development"/>
+    <file name="img_6617.jpg" crc="4278185872" seo="true" ref="final-project:project-development"/>
+    <file name="img_6662.jpg" crc="170298177" seo="true" ref="final-project:project-development"/>
+    <file name="img_6672.jpg" crc="221973673" seo="true" ref="final-project:project-development"/>
+    <file name="img_6665.jpg" crc="364750771" seo="true" ref="final-project:week-7:project-development"/>
+    <file name="img_6670.jpg" crc="3965306330" seo="true" ref="final-project:week-7:project-development"/>
+    <file name="img_6705-crop-u74522.jpg" crc="97962044" seo="true" ref="final-project"/>
+    <file name="terra-pin.jpg" crc="4149925019" seo="true" ref="final-project:project-development"/>
+    <file name="terra-pin2.jpg" crc="338100457" seo="true" ref="final-project:project-development"/>
+    <file name="img_6871.jpg" crc="3914771167" seo="true" ref="final-project"/>
+    <file name="cc1.jpg" crc="4240507696" seo="true" ref="final-project"/>
+    <file name="cc2.jpg" crc="4221057850" seo="true" ref="final-project"/>
+    <file name="img_6874.jpg" crc="264146707" seo="true" ref="final-project"/>
+    <file name="img_6907.jpg" crc="351529683" seo="true" ref="final-project:project-development"/>
+    <file name="img_6910-u74351.jpg" crc="4103101174" seo="true" ref="final-project"/>
+    <file name="img_6915.jpg" crc="185979792" seo="true" ref="final-project:project-development"/>
+    <file name="pinout.jpg" crc="3770661066" seo="true" ref="final-project:project-development"/>
+    <file name="cac final 1437x391.jpg" crc="4084243891" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x969.jpg" crc="270778345" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x969_2x.jpg" crc="3925930283" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1032.jpg" crc="3803612303" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1032_2x.jpg" crc="301912769" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x10322.jpg" crc="4199783346" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1032_2x2.jpg" crc="4089758023" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x10323.jpg" crc="4127520496" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1032_2x3.jpg" crc="433497281" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 151807_1.jpg" crc="113487844" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 151840_1.jpg" crc="4030518495" seo="true" ref="week-1"/>
+    <file name="adobe_muse_logo.jpg" crc="4271729110" seo="true" ref="week-1"/>
+    <file name="adobe_muse_logo_2x.jpg" crc="144375986" seo="true" ref="week-1"/>
+    <file name="screenshot (217).jpg" crc="3992475538" seo="true" ref="week-1"/>
+    <file name="screenshot (218).jpg" crc="3839918054" seo="true" ref="week-1"/>
+    <file name="screenshot (220).jpg" crc="313467070" seo="true" ref="week-1"/>
+    <file name="screenshot (221).jpg" crc="3932815524" seo="true" ref="week-1"/>
+    <file name="screenshot (219).jpg" crc="4229992877" seo="true" ref="week-1"/>
+    <file name="screenshot (222).jpg" crc="3809591182" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1029.jpg" crc="4148905922" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x1029_2x.jpg" crc="4135608184" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 153013_1.jpg" crc="4284847979" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 153013_2.jpg" crc="115566862" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 153013_3.jpg" crc="98399554" seo="true" ref="week-1"/>
+    <file name="new doc 2017-01-31 153013_4.jpg" crc="4248372782" seo="true" ref="week-1"/>
+    <file name="screenshot (226).jpg" crc="414789313" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x9692.jpg" crc="3980848529" seo="true" ref="week-1"/>
+    <file name="pasted image 1920x969_2x2.jpg" crc="4053522557" seo="true" ref="week-1"/>
+    <file name="autodesk-2017-activation-code-license-keys.png" crc="477527380" seo="true" ref="week-2"/>
+    <file name="screenshot (48).jpg" crc="3849547722" seo="true" ref="week-2"/>
+    <file name="screenshot (49).jpg" crc="509987724" seo="true" ref="week-2"/>
+    <file name="screenshot (50).jpg" crc="4012225277" seo="true" ref="week-2"/>
+    <file name="screenshot (51).jpg" crc="280371644" seo="true" ref="week-2"/>
+    <file name="screenshot (247).jpg" crc="228973739" seo="true" ref="week-2"/>
+    <file name="screenshot (248).jpg" crc="3902561835" seo="true" ref="week-2"/>
+    <file name="07797e8c8057ea2877ce3df579be0b9d.jpg" crc="3790421928" seo="true" ref="week-2"/>
+    <file name="screenshot (245).jpg" crc="3898493679" seo="true" ref="week-2"/>
+    <file name="screenshot (249).jpg" crc="3859258873" seo="true" ref="week-2"/>
+    <file name="screenshot (246).jpg" crc="4131109674" seo="true" ref="week-2"/>
+    <file name="screenshot (236).jpg" crc="4239136284" seo="true" ref="week-2"/>
+    <file name="screenshot (237).jpg" crc="4170977383" seo="true" ref="week-2"/>
+    <file name="screenshot (238).jpg" crc="4056454863" seo="true" ref="week-2"/>
+    <file name="screenshot (239).jpg" crc="3938191442" seo="true" ref="week-2"/>
+    <file name="screenshot (240).jpg" crc="234649761" seo="true" ref="week-2"/>
+    <file name="screenshot (241).jpg" crc="352305296" seo="true" ref="week-2"/>
+    <file name="screenshot (242).jpg" crc="263756181" seo="true" ref="week-2"/>
+    <file name="grasshopper_logo.jpg" crc="341968145" seo="true" ref="week-3"/>
+    <file name="img_2123.jpg" crc="3987470404" seo="true" ref="week-3"/>
+    <file name="img_2124.jpg" crc="220171523" seo="true" ref="week-3"/>
+    <file name="screenshot (252).jpg" crc="3761646784" seo="true" ref="week-3"/>
+    <file name="screenshot (253).jpg" crc="60783455" seo="true" ref="week-3"/>
+    <file name="screenshot (254).jpg" crc="496641354" seo="true" ref="week-3"/>
+    <file name="screenshot (258).jpg" crc="3892487068" seo="true" ref="week-3"/>
+    <file name="screenshot (263).jpg" crc="4234189634" seo="true" ref="week-3"/>
+    <file name="screenshot (267).jpg" crc="4191278503" seo="true" ref="week-3"/>
+    <file name="screenshot (268).jpg" crc="3901252394" seo="true" ref="week-3"/>
+    <file name="screenshot (270).jpg" crc="406064233" seo="true" ref="week-3"/>
+    <file name="screenshot (271).jpg" crc="3920689188" seo="true" ref="week-3"/>
+    <file name="screenshot (273).jpg" crc="124525754" seo="true" ref="week-3"/>
+    <file name="screenshot (276).jpg" crc="463612652" seo="true" ref="week-3"/>
+    <file name="screenshot (277).jpg" crc="4055771545" seo="true" ref="week-3"/>
+    <file name="screenshot (285)-crop-u3843.jpg" crc="431243863" seo="true" ref="week-3"/>
+    <file name="screenshot (283)-crop-u3525.jpg" crc="298743584" seo="true" ref="week-3"/>
+    <file name="img_2122.jpg" crc="105204994" seo="true" ref="week-3"/>
+    <file name="screenshot (282)-crop-u3836.jpg" crc="127183153" seo="true" ref="week-3"/>
+    <file name="screenshot (282)-crop-u3518.jpg" crc="276523767" seo="true" ref="week-3"/>
+    <file name="screenshot (288).jpg" crc="465783703" seo="true" ref="week-3"/>
+    <file name="screenshot (289).jpg" crc="3878752843" seo="true" ref="week-3"/>
+    <file name="screenshot (294).jpg" crc="383712508" seo="true" ref="week-3"/>
+    <file name="screenshot (284).jpg" crc="447168016" seo="true" ref="week-3"/>
+    <file name="screenshot (293).jpg" crc="345068895" seo="true" ref="week-3"/>
+    <file name="capture.jpg" crc="3939153866" seo="true" ref="week-3"/>
+    <file name="1-crop-u3888.jpg" crc="368153609" seo="true" ref="week-3"/>
+    <file name="img_1984.jpg" crc="4101397688" seo="true" ref="week-3"/>
+    <file name="img_2110.jpg" crc="46781624" seo="true" ref="week-3"/>
+    <file name="img_2115.jpg" crc="298965471" seo="true" ref="week-3"/>
+    <file name="img_2001-crop-u13603.jpg" crc="477972703" seo="true" ref="week-3"/>
+    <file name="whatsapp image 2017-02-13 at 44503 pm (1).jpg" crc="3928479593" seo="true" ref="week-3"/>
+    <file name="whatsapp image 2017-02-13 at 44509 pm.jpg" crc="274560391" seo="true" ref="week-3"/>
+    <file name="whatsapp image 2017-02-13 at 44510 pm.jpg" crc="106650493" seo="true" ref="week-3"/>
+    <file name="img_2002.jpg" crc="4086640689" seo="true" ref="week-3"/>
+    <file name="whatsapp image 2017-02-13 at 44508 pm.jpg" crc="440626312" seo="true" ref="week-3"/>
+    <file name="whatsapp image 2017-02-13 at 44505 pm.jpg" crc="4242350936" seo="true" ref="week-3"/>
+    <file name="img_2003.jpg" crc="4108485573" seo="true" ref="week-3"/>
+    <file name="img_2010.jpg" crc="4173105811" seo="true" ref="week-3"/>
+    <file name="img_2007.jpg" crc="342165085" seo="true" ref="week-3"/>
+    <file name="img_2008.jpg" crc="3758966741" seo="true" ref="week-3"/>
+    <file name="img_2011.jpg" crc="3813046183" seo="true" ref="week-3"/>
+    <file name="img_2009.jpg" crc="200722954" seo="true" ref="week-3"/>
+    <file name="img_2015.jpg" crc="362399758" seo="true" ref="week-3"/>
+    <file name="img_2014.jpg" crc="4047456156" seo="true" ref="week-3"/>
+    <file name="pacman_3-crop-u4087.jpg" crc="3984001967" seo="true" ref="week-3"/>
+    <file name="pac-man-blog-image1-crop-u4097.jpg" crc="4186733704" seo="true" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_001.jpg" crc="286926213" seo="true" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_002.jpg" crc="4199115274" seo="true" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_003.jpg" crc="162452387" seo="true" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_001-crop-u7172.jpg" crc="3769049895" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_001-crop-u7172_2x.jpg" crc="168153009" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_002-crop-u7311.jpg" crc="144944326" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_002-crop-u7311_2x.jpg" crc="259755049" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_003-crop-u7337.jpg" crc="269032453" ref="week-3"/>
+    <file name="chandni chhabra_week 3_fabacademy_003-crop-u7337_2x.jpg" crc="3911526243" ref="week-3"/>
+    <file name="1_2x2.jpg" crc="401514817" seo="true" ref="week-3"/>
+    <file name="1_2x2_2x.jpg" crc="278548439" seo="true" ref="week-3"/>
+    <file name="2_2x2.jpg" crc="510816079" seo="true" ref="week-3"/>
+    <file name="2_2x2_2x.jpg" crc="3992405418" seo="true" ref="week-3"/>
+    <file name="3_2x.jpg" crc="4221123002" seo="true" ref="week-3"/>
+    <file name="3_2x_2x.jpg" crc="494649257" seo="true" ref="week-3"/>
+    <file name="4_2x.jpg" crc="3793951247" seo="true" ref="week-3"/>
+    <file name="img_2022.jpg" crc="6223987" seo="true" ref="week-3"/>
+    <file name="img_2024.jpg" crc="4241222415" seo="true" ref="week-3"/>
+    <file name="dsc_6334.jpg" crc="4126455112" seo="true" ref="week-3"/>
+    <file name="dsc_6336.jpg" crc="3994083046" seo="true" ref="week-3"/>
+    <file name="dsc_6339.jpg" crc="4055340039" seo="true" ref="week-3"/>
+    <file name="dsc_6340.jpg" crc="3812883213" seo="true" ref="week-3"/>
+    <file name="dsc_6343.jpg" crc="3782375920" seo="true" ref="week-3"/>
+    <file name="dsc_6345.jpg" crc="3913751524" seo="true" ref="week-3"/>
+    <file name="dsc_6350.jpg" crc="4187411856" seo="true" ref="week-3"/>
+    <file name="img_2025.jpg" crc="36156192" seo="true" ref="week-3"/>
+    <file name="img_2027.jpg" crc="4105930576" seo="true" ref="week-3"/>
+    <file name="chandni chhabra_isp_02 (1).jpg" crc="3823712711" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_002.jpg" crc="289038809" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_001.jpg" crc="338211545" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_05.jpg" crc="317510094" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_06.jpg" crc="3850016094" seo="true" ref="week-4"/>
+    <file name="final-fablab cept isp.jpg" crc="327352187" seo="true" ref="week-4"/>
+    <file name="final-fablab cept isp_interior.jpg" crc="437691140" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_07 (1)-crop-u4749.jpg" crc="49000310" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_08-crop-u4762.jpg" crc="3880825670" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_10 (1)-crop-u4775_2x.jpg" crc="4183921072" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_10 (1)-crop-u4775_2x_2x.jpg" crc="4071584164" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_09 (1)-crop-u4783.jpg" crc="3852631188" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_12-crop-u4806.jpg" crc="4057949612" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_13-crop-u4798.jpg" crc="4268028808" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_15.jpg" crc="148498371" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_16_2x.jpg" crc="310223874" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp_16_2x_2x.jpg" crc="3995045425" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp milling_03.jpg" crc="300637855" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp milling_01.jpg" crc="330650733" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp milling_02.jpg" crc="4218439852" seo="true" ref="week-4"/>
+    <file name="dsc_6531.jpg" crc="4025863461" seo="true" ref="week-4"/>
+    <file name="dsc_6529.jpg" crc="55096736" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_isp milling_04.jpg" crc="3824687478" seo="true" ref="week-4"/>
+    <file name="img_2305-crop-u4916.jpg" crc="4027228169" seo="true" ref="week-4"/>
+    <file name="img_2296.jpg" crc="68223039" seo="true" ref="week-4"/>
+    <file name="img_2290.jpg" crc="355902004" seo="true" ref="week-4"/>
+    <file name="img_2292.jpg" crc="252769939" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fab isp_avr test_02.jpg" crc="177831002" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fab isp_avr test_01.jpg" crc="386519337" seo="true" ref="week-4"/>
+    <file name="dsc_6552.jpg" crc="25530019" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_04.jpg" crc="4173911440" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_05.jpg" crc="4265023765" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_06.jpg" crc="106116311" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_07.jpg" crc="457744547" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_09.jpg" crc="535158066" seo="true" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_04-crop-u6117.jpg" crc="3892624922" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_04-crop-u6117_2x.jpg" crc="4247929926" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_05-crop-u6143.jpg" crc="4013771300" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_05-crop-u6143_2x.jpg" crc="127428228" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_06-crop-u6169.jpg" crc="3979392544" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_06-crop-u6169_2x.jpg" crc="68902652" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_07-crop-u6195.jpg" crc="3910937438" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_07-crop-u6195_2x.jpg" crc="221791006" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_09-crop-u6247.jpg" crc="289456445" ref="week-4"/>
+    <file name="chandni chhabra_fabisp programming_09-crop-u6247_2x.jpg" crc="4093486432" ref="week-4"/>
+    <file name="screenshot (199).jpg" crc="3883160693" seo="true" ref="week-4"/>
+    <file name="screenshot (199)_2x.jpg" crc="4067121780" seo="true" ref="week-4"/>
+    <file name="screenshot (200).jpg" crc="4033558779" seo="true" ref="week-4"/>
+    <file name="screenshot (200)_2x.jpg" crc="228993767" seo="true" ref="week-4"/>
+    <file name="oa_ldict.jpg" crc="3877347111" seo="true" ref="week-6"/>
+    <file name="screenshot (322).jpg" crc="3966546765" seo="true" ref="week-6"/>
+    <file name="screenshot (323).jpg" crc="3803292825" seo="true" ref="week-6"/>
+    <file name="screenshot (326).jpg" crc="91082360" seo="true" ref="week-6"/>
+    <file name="03.jpg" crc="107481949" seo="true" ref="week-6"/>
+    <file name="net classes.jpg" crc="252321151" seo="true" ref="week-6"/>
+    <file name="04-crop-u47027.jpg" crc="4123560404" seo="true" ref="week-6"/>
+    <file name="05.jpg" crc="215252504" seo="true" ref="week-6"/>
+    <file name="06.jpg" crc="4147130198" seo="true" ref="week-6"/>
+    <file name="07.jpg" crc="314620024" seo="true" ref="week-6"/>
+    <file name="01.jpg" crc="3796127459" seo="true" ref="week-6"/>
+    <file name="02.jpg" crc="252490916" seo="true" ref="week-6"/>
+    <file name="7.jpg" crc="181853661" seo="true" ref="week-6"/>
+    <file name="cac_ext.jpg" crc="129899670" seo="true" ref="week-6"/>
+    <file name="cac_int.jpg" crc="3867602617" seo="true" ref="week-6"/>
+    <file name="102.jpg" crc="3956370088" seo="true" ref="week-6"/>
+    <file name="101.jpg" crc="491514231" seo="true" ref="week-6"/>
+    <file name="103-crop-u47369.jpg" crc="4251279956" seo="true" ref="week-6"/>
+    <file name="104-crop-u47395.jpg" crc="523360662" seo="true" ref="week-6"/>
+    <file name="106-crop-u47447.jpg" crc="302883217" seo="true" ref="week-6"/>
+    <file name="105.jpg" crc="415618073" seo="true" ref="week-6"/>
+    <file name="img_6624-crop-u87639.jpg" crc="3809743488" ref="week-6"/>
+    <file name="img_6624-crop-u87639_2x.jpg" crc="197629178" ref="week-6"/>
+    <file name="2x-font-b-servo-b-font-font-b-360-b-font-degree-continuous-rotation-font-b.jpg" crc="4218873353" seo="true" ref="week-10"/>
+    <file name="helloservo44.jpg" crc="4053327274" seo="true" ref="week-10"/>
+    <file name="chandni chhabra_week 10_diagram.jpg" crc="515853933" seo="true" ref="week-10"/>
+    <file name="screenshot (338).jpg" crc="3831041664" seo="true" ref="week-10"/>
+    <file name="screenshot (339).jpg" crc="4052924894" seo="true" ref="week-10"/>
+    <file name="screenshot (340).jpg" crc="3933549161" seo="true" ref="week-10"/>
+    <file name="screenshot (341).jpg" crc="6875242" seo="true" ref="week-10"/>
+    <file name="screenshot (342).jpg" crc="3868088331" seo="true" ref="week-10"/>
+    <file name="screenshot (343).jpg" crc="378839213" seo="true" ref="week-10"/>
+    <file name="screenshot (344).jpg" crc="494204675" seo="true" ref="week-10"/>
+    <file name="screenshot (345).jpg" crc="297997551" seo="true" ref="week-10"/>
+    <file name="img_3241.jpg" crc="349215092" seo="true" ref="week-10"/>
+    <file name="img_3242.jpg" crc="90516900" seo="true" ref="week-10"/>
+    <file name="img_3243.jpg" crc="491921615" seo="true" ref="week-10"/>
+    <file name="img_3247.jpg" crc="139243470" seo="true" ref="week-10"/>
+    <file name="img_3248-crop-u8773.jpg" crc="167796908" seo="true" ref="week-10"/>
+    <file name="img_3252-crop-u8853.jpg" crc="401528432" seo="true" ref="week-10"/>
+    <file name="img_3257-crop-u8953-crop-u8953.jpg" crc="3952200531" ref="week-10"/>
+    <file name="img_3258-crop-u8973.jpg" crc="3834975188" seo="true" ref="week-10"/>
+    <file name="img_3260.jpg" crc="163768306" seo="true" ref="week-10"/>
+    <file name="img_3263.jpg" crc="227973668" seo="true" ref="week-10"/>
+    <file name="img_3264-crop-u9093.jpg" crc="3877012116" seo="true" ref="week-10"/>
+    <file name="img_3265.jpg" crc="3982709131" seo="true" ref="week-10"/>
+    <file name="img_3266-crop-u9133.jpg" crc="3909436085" seo="true" ref="week-10"/>
+    <file name="img_3268-crop-u9173.jpg" crc="465974993" seo="true" ref="week-10"/>
+    <file name="img_3257-crop-u8953.jpg" crc="3843803324" seo="true" ref="week-10"/>
+    <file name="img_20170405_030837.jpg" crc="310199086" seo="true" ref="week-10"/>
+    <file name="img_20170405_022602.jpg" crc="4090437610" seo="true" ref="week-10"/>
+    <file name="img_20170405_031955.jpg" crc="428661181" seo="true" ref="week-10"/>
+    <file name="img_20170405_032033.jpg" crc="88955095" seo="true" ref="week-10"/>
+    <file name="img_20170405_041207_00.jpg" crc="4270603843" seo="true" ref="week-10"/>
+    <file name="img_20170405_041207.jpg" crc="3760957572" seo="true" ref="week-10"/>
+    <file name="chandni chhabra_revised week 10 board.jpg" crc="385202498" seo="true" ref="week-10"/>
+    <file name="cac_week 10_int.jpg" crc="3986626476" seo="true" ref="week-10"/>
+    <file name="cac_week 10_ext.jpg" crc="347236102" seo="true" ref="week-10"/>
+    <file name="img_5894-crop-u54676.jpg" crc="3852362346" seo="true" ref="week-10"/>
+    <file name="111.jpg" crc="4008983960" seo="true" ref="week-10"/>
+    <file name="screenshot (611).jpg" crc="359950306" seo="true" ref="week-10"/>
+    <file name="screenshot (612).jpg" crc="37994559" seo="true" ref="week-10"/>
+    <file name="011.jpg" crc="179489010" seo="true" ref="week-10"/>
+    <file name="012.jpg" crc="4242620164" seo="true" ref="week-10"/>
+    <file name="cc12.jpg" crc="3773120550" seo="true" ref="week-10"/>
+    <file name="cc122.jpg" crc="3983671258" seo="true" ref="week-10"/>
+    <file name="img_6564.jpg" crc="4135356478" seo="true" ref="week-10"/>
+    <file name="img_6566.jpg" crc="300355455" seo="true" ref="week-10"/>
+    <file name="img_6601-u56094.png" crc="4019924497" seo="true" ref="week-10"/>
+    <file name="img_6606-u56120.jpg" crc="4190340708" seo="true" ref="week-10"/>
+    <file name="img_6614-u56146.jpg" crc="4249719076" seo="true" ref="week-10"/>
+    <file name="img_6714.jpg" crc="3967312140" seo="true" ref="week-10"/>
+    <file name="img_6713.jpg" crc="3807243965" seo="true" ref="week-10"/>
+    <file name="1370e41e01d73fd2de1ca1bf8a22b2ce.jpg" crc="3928507886" seo="true" ref="week-7"/>
+    <file name="b27858280ec6ef9e804b20204e821ed2-crop-u47807.jpg" crc="269718966" seo="true" ref="week-7"/>
+    <file name="d9f08d2962a737261361887e472400b0 (1)-crop-u47822.jpg" crc="4228032674" seo="true" ref="week-7"/>
+    <file name="01_2x2.jpg" crc="4135244748" seo="true" ref="week-7"/>
+    <file name="01_2x2_2x.jpg" crc="3807284006" seo="true" ref="week-7"/>
+    <file name="02_2x2.jpg" crc="367993764" seo="true" ref="week-7"/>
+    <file name="02_2x2_2x.jpg" crc="3997371903" seo="true" ref="week-7"/>
+    <file name="03_2x3.jpg" crc="95417833" seo="true" ref="week-7"/>
+    <file name="03_2x3_2x.jpg" crc="4212463079" seo="true" ref="week-7"/>
+    <file name="04-crop-u13380_2x-crop-u13380.jpg" crc="4068107821" ref="week-7"/>
+    <file name="05-crop-u13393.jpg" crc="3940950603" seo="true" ref="week-7"/>
+    <file name="8.jpg" crc="4252424314" seo="true" ref="week-7"/>
+    <file name="7-u47750.png" crc="209688391" seo="true" ref="week-7"/>
+    <file name="r1-crop-u47732.jpg" crc="4113861008" seo="true" ref="week-7"/>
+    <file name="r2-crop-u47776.jpg" crc="4139327438" seo="true" ref="week-7"/>
+    <file name="screenshot (448)-crop-u13417.jpg" crc="90735336" seo="true" ref="week-7"/>
+    <file name="screenshot (449)-crop-u13430.jpg" crc="3828720110" seo="true" ref="week-7"/>
+    <file name="1_00.jpg" crc="4184164080" seo="true" ref="week-7"/>
+    <file name="22.jpg" crc="3778301775" seo="true" ref="week-7"/>
+    <file name="13.jpg" crc="532514983" seo="true" ref="week-7"/>
+    <file name="4_00.jpg" crc="149170282" seo="true" ref="week-7"/>
+    <file name="4_002.jpg" crc="54298702" seo="true" ref="week-7"/>
+    <file name="7_01.jpg" crc="3863433229" seo="true" ref="week-7"/>
+    <file name="img_7047.jpg" crc="4255007881" seo="true" ref="week-7"/>
+    <file name="img_7048.jpg" crc="3922545336" seo="true" ref="week-7"/>
+    <file name="img_7050.jpg" crc="4148423200" seo="true" ref="week-7"/>
+    <file name="img_7051.jpg" crc="3771029770" seo="true" ref="week-7"/>
+    <file name="img_7054.jpg" crc="4241005427" seo="true" ref="week-7"/>
+    <file name="1_01.jpg" crc="3863271673" seo="true" ref="week-7"/>
+    <file name="2_00.jpg" crc="4206629128" seo="true" ref="week-7"/>
+    <file name="3.jpg" crc="345319661" seo="true" ref="week-7"/>
+    <file name="img_7095.jpg" crc="369144130" seo="true" ref="week-7"/>
+    <file name="img_7097.jpg" crc="317075821" seo="true" ref="week-7"/>
+    <file name="img_7098.jpg" crc="428664681" seo="true" ref="week-7"/>
+    <file name="img_7102.jpg" crc="3956636305" seo="true" ref="week-7"/>
+    <file name="img_7103.jpg" crc="3776503008" seo="true" ref="week-7"/>
+    <file name="img_7105-crop-u61456-u61456.png" crc="404591691" ref="week-7"/>
+    <file name="img_7106.jpg" crc="233816006" seo="true" ref="week-7"/>
+    <file name="img_7108.jpg" crc="3784672911" seo="true" ref="week-7"/>
+    <file name="img_7109.jpg" crc="260372238" seo="true" ref="week-7"/>
+    <file name="img_7112-u61560.png" crc="134307825" seo="true" ref="week-7"/>
+    <file name="img_7114.jpg" crc="351037117" seo="true" ref="week-7"/>
+    <file name="img_7116.jpg" crc="315446023" seo="true" ref="week-7"/>
+    <file name="img_7133.jpg" crc="154722433" seo="true" ref="week-7"/>
+    <file name="img_7135.jpg" crc="3971283407" seo="true" ref="week-7"/>
+    <file name="screenshot (145).jpg" crc="4115569886" seo="true" ref="week-7:project-development"/>
+    <file name="screenshot (147).jpg" crc="3933508985" seo="true" ref="week-7:project-development"/>
+    <file name="1.jpg" crc="177051190" seo="true" ref="week-7:project-development"/>
+    <file name="15.jpg" crc="78624639" seo="true" ref="week-7:project-development"/>
+    <file name="5.jpg" crc="341124911" seo="true" ref="week-7:project-development"/>
+    <file name="82.jpg" crc="394371068" seo="true" ref="week-7:project-development"/>
+    <file name="72.jpg" crc="338102764" seo="true" ref="week-7:project-development"/>
+    <file name="img_6705-crop-u61070_2x.jpg" crc="140905465" seo="true" ref="week-7"/>
+    <file name="img_6705-crop-u61070_2x_2x.jpg" crc="357255287" seo="true" ref="week-7"/>
+    <file name="screenshot (469).jpg" crc="4120200583" seo="true" ref="week-8"/>
+    <file name="screenshot (465).jpg" crc="208739479" seo="true" ref="week-8"/>
+    <file name="screenshot (466).jpg" crc="522732989" seo="true" ref="week-8"/>
+    <file name="screenshot (467).jpg" crc="4095451047" seo="true" ref="week-8"/>
+    <file name="screenshot (468).jpg" crc="265477757" seo="true" ref="week-8"/>
+    <file name="screenshot (510).jpg" crc="16363819" seo="true" ref="week-8"/>
+    <file name="screenshot (511).jpg" crc="3775252218" seo="true" ref="week-8"/>
+    <file name="screenshot (512).jpg" crc="525310404" seo="true" ref="week-8"/>
+    <file name="screenshot (513).jpg" crc="438875999" seo="true" ref="week-8"/>
+    <file name="screenshot (541).jpg" crc="3901735385" seo="true" ref="week-8"/>
+    <file name="screenshot (516).jpg" crc="4290447479" seo="true" ref="week-8"/>
+    <file name="screenshot (613).jpg" crc="34317363" seo="true" ref="week-8"/>
+    <file name="diagram_cac.jpg" crc="35868843" seo="true" ref="week-8"/>
+    <file name="screenshot (616).jpg" crc="4054225606" seo="true" ref="week-8"/>
+    <file name="screenshot (613)951x535.jpg" crc="323072224" seo="true" ref="week-8"/>
+    <file name="screenshot (617).jpg" crc="390409285" seo="true" ref="week-8"/>
+    <file name="img_20170328_203343-crop-u921.jpg" crc="406886124" seo="true" ref="week-9:week-11"/>
+    <file name="img_20170328_203212.jpg" crc="340881937" seo="true" ref="week-9:week-11"/>
+    <file name="img_20170328_203447227x171.jpg" crc="3912773745" seo="true" ref="week-9"/>
+    <file name="3d view.jpg" crc="4112962995" seo="true" ref="week-9:week-11"/>
+    <file name="light printer_week_08_01.png" crc="4172456375" seo="true" ref="week-9:week-11"/>
+    <file name="light printer_week_08_02.png" crc="4270164590" seo="true" ref="week-9:week-11"/>
+    <file name="light printer_week_08_03.jpg" crc="4072121778" seo="true" ref="week-9:week-11"/>
+    <file name="img_20170328_203447.jpg" crc="4073970248" seo="true" ref="week-9:week-11"/>
+    <file name="11-crop-u21696.jpg" crc="3947391822" ref="week-9"/>
+    <file name="light printer modified.png" crc="50445562" seo="true" ref="week-9:week-11"/>
+    <file name="_dsc0884.jpg" crc="321291506" seo="true" ref="week-9:week-11"/>
+    <file name="03_2x2.jpg" crc="278801260" seo="true" ref="week-9:week-11"/>
+    <file name="03_2x2_2x.jpg" crc="3867487549" seo="true" ref="week-9:week-11"/>
+    <file name="04.jpg" crc="3881809541" seo="true" ref="week-9:week-11"/>
+    <file name="05_2x.jpg" crc="186680438" seo="true" ref="week-9:week-11"/>
+    <file name="05_2x_2x.jpg" crc="3978871961" seo="true" ref="week-9:week-11"/>
+    <file name="07_2x2.jpg" crc="3821860055" seo="true" ref="week-9:week-11"/>
+    <file name="07_2x2_2x.jpg" crc="4072019609" seo="true" ref="week-9:week-11"/>
+    <file name="08.jpg" crc="3806972343" seo="true" ref="week-9:week-11"/>
+    <file name="chandni_14_week 13.jpg" crc="4210970080" seo="true" ref="week-14"/>
+    <file name="chandni_13_week 13.jpg" crc="3963018963" seo="true" ref="week-14"/>
+    <file name="arrow-png-pic39x21.png" crc="45116027" seo="true" ref="week-14"/>
+    <file name="arrow-png-pic39x21_2x.png" crc="4268246148" seo="true" ref="week-14"/>
+    <file name="chandni_11_week 13.jpg" crc="93606722" seo="true" ref="week-14"/>
+    <file name="chandni_04_week 13.jpg" crc="3863065372" seo="true" ref="week-14"/>
+    <file name="chandni_03_week 13.jpg" crc="3814015774" seo="true" ref="week-14"/>
+    <file name="chandni_07_week 13.jpg" crc="126315791" seo="true" ref="week-14"/>
+    <file name="chandni_02_week 13.jpg" crc="4097458813" seo="true" ref="week-14"/>
+    <file name="chandni_15_week 13-crop-u13237_2x.jpg" crc="17290127" seo="true" ref="week-14"/>
+    <file name="chandni_17_week 13.jpg" crc="4140551210" seo="true" ref="week-14"/>
+    <file name="chandni_18_week 13.jpg" crc="3808151327" seo="true" ref="week-14"/>
+    <file name="screenshot (445).jpg" crc="4050266310" seo="true" ref="week-14"/>
+    <file name="screenshot (444)_2x.jpg" crc="3813376285" seo="true" ref="week-14"/>
+    <file name="cac1.jpg" crc="4228872406" seo="true" ref="week-14"/>
+    <file name="cac2.jpg" crc="4003418420" seo="true" ref="week-14"/>
+    <file name="cac4.jpg" crc="4101467659" seo="true" ref="week-14"/>
+    <file name="cac3.jpg" crc="3899206052" seo="true" ref="week-14"/>
+    <file name="cac13.jpg" crc="3922341349" seo="true" ref="week-14"/>
+    <file name="cac5.jpg" crc="3812414678" seo="true" ref="week-14"/>
+    <file name="cac8.jpg" crc="390035422" seo="true" ref="week-14"/>
+    <file name="img_3837.jpg" crc="4275289534" seo="true" ref="week-14"/>
+    <file name="img_3848.jpg" crc="258083219" seo="true" ref="week-14"/>
+    <file name="img_3860.jpg" crc="4027734627" seo="true" ref="week-14"/>
+    <file name="img_3862.jpg" crc="387472606" seo="true" ref="week-14"/>
+    <file name="img_3867.jpg" crc="4046625377" seo="true" ref="week-14"/>
+    <file name="img_3869.jpg" crc="301658853" seo="true" ref="week-14"/>
+    <file name="img_6412.jpg" crc="4042947985" seo="true" ref="week-14"/>
+    <file name="img_6413.jpg" crc="143968733" seo="true" ref="week-14"/>
+    <file name="dsc_8297.jpg" crc="233958471" seo="true" ref="week-14"/>
+    <file name="dsc_8298.jpg" crc="167521223" seo="true" ref="week-14"/>
+    <file name="dsc_8302.jpg" crc="266598132" seo="true" ref="week-14"/>
+    <file name="dsc_8306.jpg" crc="4179050547" seo="true" ref="week-14"/>
+    <file name="img_20170602_175905.jpg" crc="4283634946" seo="true" ref="week-14"/>
+    <file name="img_20170602_180129.jpg" crc="96109701" seo="true" ref="week-14"/>
+    <file name="img_20170602_180754.jpg" crc="37866414" seo="true" ref="week-14"/>
+    <file name="img_20170602_180401.jpg" crc="361771715" seo="true" ref="week-14"/>
+    <file name="img_20170602_180900.jpg" crc="4066416869" seo="true" ref="week-14"/>
+    <file name="img_20170602_181532.jpg" crc="49857412" seo="true" ref="week-14"/>
+    <file name="img_20170602_181713.jpg" crc="407016284" seo="true" ref="week-14"/>
+    <file name="img_6546.jpg" crc="3834466110" seo="true" ref="week-14"/>
+    <file name="img_20170602_181632.jpg" crc="3842546286" seo="true" ref="week-14"/>
+    <file name="img_6547.jpg" crc="3810767258" seo="true" ref="week-14"/>
+    <file name="img_6548.jpg" crc="237233206" seo="true" ref="week-14"/>
+    <file name="img_6552.jpg" crc="510378601" seo="true" ref="week-14"/>
+    <file name="img_6412432x324.jpg" crc="3932235257" seo="true" ref="week-14"/>
+    <file name="11-crop-u49804.jpg" crc="3947391822" ref="week-11"/>
+    <file name="screenshot (442)-crop-u25659.jpg" crc="336244754" seo="true" ref="week-12"/>
+    <file name="screenshot (443)-crop-u25666.jpg" crc="3965014667" seo="true" ref="week-12"/>
+    <file name="arrow-png-pic.png" crc="4223799618" seo="true" ref="week-12"/>
+    <file name="cac_molding casting 1.jpg" crc="4199509223" seo="true" ref="week-12"/>
+    <file name="cac_molding casting 3_2x.jpg" crc="3931102925" seo="true" ref="week-12"/>
+    <file name="cac_molding casting 3_2x_2x.jpg" crc="3998673254" seo="true" ref="week-12"/>
+    <file name="cac_molding casting 5.jpg" crc="4003824800" seo="true" ref="week-12"/>
+    <file name="cac12.jpg" crc="411067927" seo="true" ref="week-12"/>
+    <file name="img_3833.jpg" crc="336270215" seo="true" ref="week-12"/>
+    <file name="img_3834.jpg" crc="3817622983" seo="true" ref="week-12"/>
+    <file name="img_3835.jpg" crc="3917520815" seo="true" ref="week-12"/>
+    <file name="img_3836.jpg" crc="527229142" seo="true" ref="week-12"/>
+    <file name="img_3844.jpg" crc="4004577782" seo="true" ref="week-12"/>
+    <file name="img_3846.jpg" crc="3787025121" seo="true" ref="week-12"/>
+    <file name="img_3847.jpg" crc="3877860182" seo="true" ref="week-12"/>
+    <file name="img_3849.jpg" crc="3852586094" seo="true" ref="week-12"/>
+    <file name="img_3850.jpg" crc="3886305801" seo="true" ref="week-12"/>
+    <file name="img_3857.jpg" crc="45677395" seo="true" ref="week-12"/>
+    <file name="img_3864.jpg" crc="198348902" seo="true" ref="week-12"/>
+    <file name="img_3870.jpg" crc="3875676535" seo="true" ref="week-12"/>
+    <file name="img_3871.jpg" crc="191114263" seo="true" ref="week-12"/>
+    <file name="img_3881.jpg" crc="4196242352" seo="true" ref="week-12"/>
+    <file name="img_3883.jpg" crc="494000491" seo="true" ref="week-12"/>
+    <file name="img_3888.jpg" crc="511546602" seo="true" ref="week-12"/>
+    <file name="img_3892.jpg" crc="3791342220" seo="true" ref="week-12"/>
+    <file name="img_3902.jpg" crc="259568874" seo="true" ref="week-12"/>
+    <file name="img_3938.jpg" crc="483402069" seo="true" ref="week-12"/>
+    <file name="dsc_8224.jpg" crc="3866487860" seo="true" ref="week-12"/>
+    <file name="chandni chhabra_molding casting 6-crop-u57684.jpg" crc="4169160250" seo="true" ref="week-12"/>
+    <file name="img_6338-crop-u50459.jpg" crc="3925883971" seo="true" ref="week-12"/>
+    <file name="chandni chhabra_molding casting 2.jpg" crc="4119449667" seo="true" ref="week-12"/>
+    <file name="chandni chhabra_molding casting 5.jpg" crc="4221898220" seo="true" ref="week-12"/>
+    <file name="chandni chhabra_molding casting 1.jpg" crc="101628061" seo="true" ref="week-12"/>
+    <file name="chandni chhabra_molding casting 8.jpg" crc="268257732" seo="true" ref="week-12"/>
+    <file name="img_6337.jpg" crc="45250856" seo="true" ref="week-12"/>
+    <file name="img_6342.jpg" crc="202015974" seo="true" ref="week-12"/>
+    <file name="screenshot (152) (1).jpg" crc="220985650" seo="true" ref="week-5"/>
+    <file name="img_7161.jpg" crc="150654636" seo="true" ref="week-5"/>
+    <file name="img_7160.jpg" crc="4224665169" seo="true" ref="week-5"/>
+    <file name="img_7154.jpg" crc="4167660683" seo="true" ref="week-5"/>
+    <file name="screenshot (424)-crop-u20957.jpg" crc="19200122" seo="true" ref="week-5"/>
+    <file name="screenshot (425)-crop-u21131.jpg" crc="182623585" seo="true" ref="week-5"/>
+    <file name="screenshot (426)-crop-u21157.jpg" crc="4198249837" seo="true" ref="week-5"/>
+    <file name="screenshot (427)-crop-u21183.jpg" crc="243108498" seo="true" ref="week-5"/>
+    <file name="screenshot (428)-crop-u21209.jpg" crc="212367075" seo="true" ref="week-5"/>
+    <file name="screenshot (430)-crop-u21261.jpg" crc="47123794" seo="true" ref="week-5"/>
+    <file name="screenshot (434)-crop-u21365.jpg" crc="4278536558" seo="true" ref="week-5"/>
+    <file name="screenshot (435)-crop-u21391.jpg" crc="3939856213" seo="true" ref="week-5"/>
+    <file name="screenshot (423).jpg" crc="4037330570" seo="true" ref="week-5"/>
+    <file name="img_3117.jpg" crc="355174227" seo="true" ref="week-5"/>
+    <file name="img_3118.jpg" crc="3823828044" seo="true" ref="week-5"/>
+    <file name="img_3139-crop-u27878.jpg" crc="3864780607" seo="true" ref="week-5"/>
+    <file name="screenshot (301).jpg" crc="4018387480" seo="true" ref="week-5"/>
+    <file name="screenshot (302).jpg" crc="4196543106" seo="true" ref="week-5"/>
+    <file name="screenshot (303).jpg" crc="318561471" seo="true" ref="week-5"/>
+    <file name="screenshot (304).jpg" crc="4167709807" seo="true" ref="week-5"/>
+    <file name="screenshot (306).jpg" crc="3985480587" seo="true" ref="week-5"/>
+    <file name="screenshot (308).jpg" crc="3928341903" seo="true" ref="week-5"/>
+    <file name="screenshot (309).jpg" crc="146599665" seo="true" ref="week-5"/>
+    <file name="screenshot (127)-crop-u45000.jpg" crc="4126352530" ref="week-5"/>
+    <file name="screenshot (127)-crop-u45000_2x.jpg" crc="348436129" ref="week-5"/>
+    <file name="screenshot (312)847x477.jpg" crc="4158349269" seo="true" ref="week-5"/>
+    <file name="img_2694-crop-u42563.jpg" crc="3817722822" ref="week-5"/>
+    <file name="img_2694-crop-u42563_2x.jpg" crc="3996296020" ref="week-5"/>
+    <file name="meaning.png" crc="276240209" seo="true" ref="week-15"/>
+    <file name="112.jpg" crc="3795799571" seo="true" ref="week-15"/>
+    <file name="222.jpg" crc="379220657" seo="true" ref="week-15"/>
+    <file name="b2.jpg" crc="464238597" seo="true" ref="week-15"/>
+    <file name="screenshot (573)-crop-u51013.jpg" crc="337109901" seo="true" ref="week-15"/>
+    <file name="32.jpg" crc="324880571" seo="true" ref="week-15"/>
+    <file name="rgb board_chandni chhabra_week 151.jpg" crc="4151846578" seo="true" ref="week-15"/>
+    <file name="cac_week 15_node.jpg" crc="322616126" seo="true" ref="week-15"/>
+    <file name="16.jpg" crc="4064326396" seo="true" ref="week-15"/>
+    <file name="21.jpg" crc="3909247411" seo="true" ref="week-15"/>
+    <file name="2_002.jpg" crc="4062179740" seo="true" ref="week-15"/>
+    <file name="3_00.jpg" crc="68935193" seo="true" ref="week-15"/>
+    <file name="4.png" crc="4039737957" seo="true" ref="week-15"/>
+    <file name="5_00-crop-u52009_2x.jpg" crc="4056144489" seo="true" ref="week-15"/>
+    <file name="5_00-crop-u52009_2x_2x.jpg" crc="4258557366" seo="true" ref="week-15"/>
+    <file name="img_5878-crop-u53803.jpg" crc="4120639630" seo="true" ref="week-15"/>
+    <file name="img_5884.jpg" crc="4285208888" seo="true" ref="week-15"/>
+    <file name="6-crop-u52035.jpg" crc="4291104266" seo="true" ref="week-15"/>
+    <file name="7_00-crop-u52061_2x.jpg" crc="148278360" seo="true" ref="week-15"/>
+    <file name="7_00-crop-u52061_2x_2x.jpg" crc="4279795085" seo="true" ref="week-15"/>
+    <file name="img_20170625_175418.jpg" crc="4061216488" seo="true" ref="week-15"/>
+    <file name="chandni1.gif" crc="4240035209" seo="true" ref="week-15"/>
+    <file name="screenshot (479).jpg" crc="137923633" seo="true" ref="week-16"/>
+    <file name="screenshot (480).jpg" crc="4036301323" seo="true" ref="week-16"/>
+    <file name="screenshot (481).jpg" crc="64186633" seo="true" ref="week-16"/>
+    <file name="screenshot (482).jpg" crc="3899162172" seo="true" ref="week-16"/>
+    <file name="screenshot (483).jpg" crc="3925978366" seo="true" ref="week-16"/>
+    <file name="screenshot (486).jpg" crc="441243628" seo="true" ref="week-16"/>
+    <file name="screenshot (487).jpg" crc="4294524092" seo="true" ref="week-16"/>
+    <file name="img_7146.jpg" crc="4222639426" seo="true" ref="week-16"/>
+    <file name="coding in arduino.jpg" crc="89218917" seo="true" ref="week-16"/>
+    <file name="coding in processing.jpg" crc="446056074" seo="true" ref="week-16"/>
+    <file name="interface.jpg" crc="3883736946" seo="true" ref="week-16"/>
+    <file name="img_1339.jpg" crc="98802113" seo="true" ref="week-17"/>
+    <file name="dscf3428_preview_featured.jpg" crc="4176647173" seo="true" ref="week-17"/>
+    <file name="screenshot (603).jpg" crc="3915181137" seo="true" ref="week-18"/>
+    <file name="screenshot (604)450x253.jpg" crc="4114834903" seo="true" ref="week-18"/>
+    <file name="screenshot (605).jpg" crc="398614796" seo="true" ref="week-18"/>
+    <file name="screenshot (606).jpg" crc="3994345176" seo="true" ref="week-18"/>
+    <file name="img_6010.jpg" crc="230673267" seo="true" ref="project-development"/>
+    <file name="img_6015.jpg" crc="4284639581" seo="true" ref="project-development"/>
+    <file name="img_6019.jpg" crc="3969518478" seo="true" ref="project-development"/>
+    <file name="img_6025.jpg" crc="363085981" seo="true" ref="project-development"/>
+    <file name="img_6131.jpg" crc="4080543520" seo="true" ref="project-development"/>
+    <file name="img_6181.jpg" crc="160962108" seo="true" ref="project-development"/>
+    <file name="img_6185.jpg" crc="9294761" seo="true" ref="project-development"/>
+    <file name="img_6186.jpg" crc="4072611323" seo="true" ref="project-development"/>
+    <file name="img_6190.jpg" crc="530367139" seo="true" ref="project-development"/>
+    <file name="img_6200.jpg" crc="222040390" seo="true" ref="project-development"/>
+    <file name="img_6215.jpg" crc="68649621" seo="true" ref="project-development"/>
+    <file name="cac final 1459x410.jpg" crc="434798117" seo="true" ref="project-development"/>
+    <file name="screenshot (619).jpg" crc="3841147797" seo="true" ref="project-development"/>
+    <file name="screenshot (620).jpg" crc="341071686" seo="true" ref="project-development"/>
+    <file name="screenshot (621).jpg" crc="3893304455" seo="true" ref="project-development"/>
+    <file name="img_6521-crop-u54743.jpg" crc="3991244986" seo="true" ref="project-development"/>
+    <file name="img_6523-crop-u54751.jpg" crc="69832911" seo="true" ref="project-development"/>
+    <file name="img_6538.jpg" crc="35166830" seo="true" ref="project-development"/>
+    <file name="3-crop-u44379.jpg" crc="4285694070" seo="true" ref="project-development"/>
+    <file name="2.jpg" crc="4014104186" seo="true" ref="project-development"/>
+    <file name="chandni chhabra_final assembly.jpg" crc="4215605690" seo="true" ref="project-development"/>
+    <file name="screenshot (141).jpg" crc="105109383" seo="true" ref="project-development"/>
+    <file name="014.jpg" crc="216867714" seo="true" ref="project-development"/>
+    <file name="screenshot (142).jpg" crc="200672065" seo="true" ref="project-development"/>
+    <file name="screenshot (143).jpg" crc="3881067946" seo="true" ref="project-development"/>
+    <file name="screenshot (144).jpg" crc="3785907237" seo="true" ref="project-development"/>
+    <file name="img_6705-crop-u60228.jpg" crc="4034971762" seo="true" ref="project-development"/>
+    <file name="img_6705-crop-u61070.jpg" crc="3790404824" seo="true" ref="project-development"/>
+    <file name="17.jpg" crc="225397267" seo="true" ref="project-development"/>
+    <file name="img_6706.jpg" crc="3903874154" seo="true" ref="project-development"/>
+    <file name="img_6808-crop-u74838.jpg" crc="3846766453" seo="true" ref="project-development"/>
+    <file name="img_6809-crop-u74864.jpg" crc="431719472" seo="true" ref="project-development"/>
+    <file name="img_6813-crop-u74890_2x.jpg" crc="3828143043" seo="true" ref="project-development"/>
+    <file name="img_6813-crop-u74890_2x_2x.jpg" crc="49579127" seo="true" ref="project-development"/>
+    <file name="img_6935-crop-u74916.jpg" crc="4220538561" seo="true" ref="project-development"/>
+    <file name="img_6942-crop-u74942.jpg" crc="225530768" seo="true" ref="project-development"/>
+    <file name="img_6943-u74968.png" crc="483238364" seo="true" ref="project-development"/>
+    <file name="screenshot (627)-crop-u63070.jpg" crc="4160903091" seo="true" ref="project-development"/>
+    <file name="screenshot (630)-crop-u63042.jpg" crc="524619460" seo="true" ref="project-development"/>
+    <file name="screenshot (636).jpg" crc="4121793940" seo="true" ref="project-development"/>
+    <file name="img_6871724x543.jpg" crc="297934384" seo="true" ref="project-development"/>
+    <file name="cc1705x402.jpg" crc="4085181916" seo="true" ref="project-development"/>
+    <file name="cc2705x402.jpg" crc="3869852530" seo="true" ref="project-development"/>
+    <file name="img_6874724x543.jpg" crc="443173395" seo="true" ref="project-development"/>
+    <file name="img_6910-u74351725x503.jpg" crc="309307820" seo="true" ref="project-development"/>
+    <file name="input sch 1.jpg" crc="3776597952" seo="true" ref="week-13"/>
+    <file name="input sch4.jpg" crc="509350616" seo="true" ref="week-13"/>
+    <file name="inputbrd 5.jpg" crc="4273119047" seo="true" ref="week-13"/>
+    <file name="inputbrd 6.jpg" crc="447828666" seo="true" ref="week-13"/>
+    <file name="input 1.jpg" crc="3889407253" seo="true" ref="week-13"/>
+    <file name="input 2.jpg" crc="3969438164" seo="true" ref="week-13"/>
+    <file name="c101.jpg" crc="3827463927" seo="true" ref="week-13"/>
+    <file name="c102.jpg" crc="4175096438" seo="true" ref="week-13"/>
+    <file name="img_7056.jpg" crc="4138727731" seo="true" ref="week-13"/>
+    <file name="img_7136-u57258.png" crc="3835079557" seo="true" ref="week-13"/>
+    <file name="img_7066.jpg" crc="262597168" seo="true" ref="week-13"/>
+    <file name="img_7067.jpg" crc="3780346434" seo="true" ref="week-13"/>
+    <file name="input_distance_chandni 1.jpg" crc="486867305" seo="true" ref="week-13"/>
+    <file name="input_distance_chandni2.jpg" crc="124824014" seo="true" ref="week-13"/>
+    <file name="input_distance_chandni3.jpg" crc="471259689" seo="true" ref="week-13"/>
+    <file name="c112.jpg" crc="329567749" seo="true" ref="week-13"/>
+    <file name="cc113.jpg" crc="4219278303" seo="true" ref="week-13"/>
+    <file name="img_7138-crop-u75314.jpg" crc="3944298612" seo="true" ref="week-13"/>
+    <file name="img_7205-crop-u75421.jpg" crc="4044121085" seo="true" ref="week-13"/>
+    <file name="img_7206.jpg" crc="4028648109" seo="true" ref="week-13"/>
+    <file name="p1.jpg" crc="472441651" seo="true" ref="week-13"/>
+    <file name="p2.jpg" crc="3935524845" seo="true" ref="week-13"/>
+    <file name="img_7207.jpg" crc="4147197914" seo="true" ref="week-13"/>
+  </folder>
+  <file name="index.html" crc="678786" seo="true" mt="1499835777785" redirect="true"/>
+  <file name="weekly-assignments.html" crc="410776625" seo="true" mt="1499681650999" redirect="false"/>
+  <file name="final-project.html" crc="513119038" seo="true" mt="1499835918717" redirect="true"/>
+  <file name="week-1.html" crc="299608611" seo="true" mt="1499752004913" redirect="true"/>
+  <file name="week-2.html" crc="4102126878" seo="true" mt="1499753481574" redirect="true"/>
+  <file name="week-3.html" crc="4136350903" seo="true" mt="1499836347558" redirect="true"/>
+  <file name="week-4.html" crc="115026752" seo="true" mt="1499757466704" redirect="true"/>
+  <file name="week-6.html" crc="4073869193" seo="true" mt="1499836416685" redirect="true"/>
+  <file name="week-10.html" crc="3923480105" seo="true" mt="1499753761139" redirect="true"/>
+  <file name="week-7.html" crc="3898927569" seo="true" mt="1499837395670" redirect="true"/>
+  <file name="week-8.html" crc="4190500489" seo="true" mt="1499777864337" redirect="true"/>
+  <file name="week-9.html" crc="240247460" seo="true" mt="1499754364464" redirect="true"/>
+  <file name="week-14.html" crc="369725006" seo="true" mt="1499753181146" redirect="true"/>
+  <file name="week-11.html" crc="3761738419" seo="true" mt="1499710506625" redirect="true"/>
+  <file name="week-12.html" crc="4161853741" seo="true" mt="1499753119882" redirect="true"/>
+  <file name="week-5.html" crc="4174249120" seo="true" mt="1499753061761" redirect="true"/>
+  <file name="week-15.html" crc="3805824255" seo="true" mt="1499837186788" redirect="true"/>
+  <file name="week-16.html" crc="4158476948" seo="true" mt="1499757719886" redirect="true"/>
+  <file name="week-17.html" crc="466636499" seo="true" mt="1499753603986" redirect="true"/>
+  <file name="week-18.html" crc="181016975" seo="true" mt="1499753715861" redirect="true"/>
+  <file name="project-development.html" crc="83416039" seo="true" mt="1499837428313" redirect="true"/>
+  <file name="week-13.html" crc="4213560105" seo="true" mt="1499710366816" redirect="true"/>
+</manifest>
